@@ -1,0 +1,43 @@
+@media (max-width: 600px) {
+ #open{
+	margin-left:-8%;
+	font-size:15px;
+	
+}
+
+.addcar{
+ padding:2px ;
+}
+
+.star{
+	height:12px;
+	width:12px;
+}
+
+.bg-footer{
+	background-color:#C7CDCD;
+	height:500px;
+}
+
+
+
+}
+
+@media (min-width: 768px) and (max-width: 1024px){
+ #open{
+	margin-left:-8%;
+	font-size:15px;
+	
+}
+.addcar{
+	margin-bottom:30%;
+}
+}
+
+@media (max-width: 1024px){
+	.banner1{
+		margin-top:5%;
+	}
+ 
+}
+
